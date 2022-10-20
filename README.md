@@ -6,7 +6,7 @@ Group Menmbers:
 
 2. M V Sai Kiran
 
-3. Bharghav Chirumamilla
+3. Bhargav Chirumamilla
 
 4. Cheedrala Jaswanth
 
