@@ -1,9 +1,6 @@
-# EE-401-Expression_Recognition
+# Facial Expression Recognition
 
-Group Menmbers:
-
-1. Abhishek Josyula
-2. Bhargav Chirumamilla
+## FER 2013 dataset
 
 ## Abstract
 
